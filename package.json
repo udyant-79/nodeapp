@@ -1,0 +1,13 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "this is nodeapp",
+  "main": "simpleweb.js",
+  "dependencies": {"express": "*"},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
